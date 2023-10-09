@@ -19,7 +19,6 @@ The project is built upon a rich dataset that spans across 15 tables. These tabl
 - DbVisualizer
 - Tableau
 - Power Point
-- PDF
 - Excel
 
 ## Tableau Visualization Link
