@@ -26,4 +26,8 @@ The project is built upon a rich dataset that spans across 15 tables. These tabl
 
 ## Documents:
 
-[Data Project Brief:]()
+[Data Project Brief PDF](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/A3_Data_Project_Brief%20.pdf)
+
+[Rockbuster Stealth Project - Presentation PDF](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20Stealth%20Project%20-%20Presentation%20PDF.pdf)
+
+[Data Dictionaty PDF](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/DATA%20DICTIONARY.pdf)
