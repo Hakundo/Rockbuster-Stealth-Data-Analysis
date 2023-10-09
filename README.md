@@ -1,4 +1,5 @@
 # Rockbuster-Stealth-Data-Analysis
+## Overview
 Data analysis for Rockbuster Stealth LLC, a movie rental company transitioning to an online platform. This repository contains SQL queries, data visualizations, and insights addressing key business questions, aiding the company's 2020 strategy.
 ## Objectives
 The main objective of this project is to assist Rockbuster Stealth LLC in formulating a strategic launch plan for their new online video rental service. This will be achieved by leveraging comprehensive data analysis to garner insights into their existing movie rental operations. Specifically, we aim to:
