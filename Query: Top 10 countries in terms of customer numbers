@@ -1,0 +1,9 @@
+SELECT D.country, 
+COUNT (customer_id) AS "Number of customers"
+FROM customer A
+FULL JOIN address B ON A.address_id = B.address_id
+FULL JOIN city C ON B.city_id = C.city_id
+FULL JOIN country D ON C.country_id = D.country_id
+GROUP BY country 
+ORDER BY "Number of customers" Desc
+LIMIT 10
