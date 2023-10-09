@@ -17,4 +17,13 @@ The project is built upon a rich dataset that spans across 15 tables. These tabl
 - PgAdmin4: PostgreSQL
 - DbVisualizer
 - Tableau
+- Power Point
+- PDF
 - Excel
+
+## Tableau Visualization Link
+[View my Tableau Visualizations](https://public.tableau.com/app/profile/facundo.arakaki/viz/ROCKBUSTERSTEALTHPROJECT_16911437981570/ROCKBUSTERSTEALTHPROJECT?publish=yes)
+
+## Documents:
+
+[Data Project Brief:]()
