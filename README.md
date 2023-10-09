@@ -31,3 +31,52 @@ The project is built upon a rich dataset that spans across 15 tables. These tabl
 [Rockbuster Stealth Project - Presentation PDF](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20Stealth%20Project%20-%20Presentation%20PDF.pdf)
 
 [Data Dictionaty PDF](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/DATA%20DICTIONARY.pdf)
+
+## Skills Applied in the Project:
+
+### Relational Database Management:
+-      Differentiating between relational and non-relational databases.
+-      Setting up and managing a database environment using PostgreSQL.
+-      Understanding the role of OLAP and RDBMS.
+
+### Data Architecture and Structure:
+-      Handling data storage structures, particularly keys and indexes.
+-      Identifying and using common data types in relational databases.
+-      Designing and understanding relational database schemas.
+-      Extracting entity relationship diagrams and creating data dictionaries.
+
+###  SQL Querying:
+-      Crafting SQL commands for CRUD operations.
+-      Implementing table creation constraints.
+-      Querying databases in PostgreSQL to derive business insights.
+
+###  Advanced Database Querying:
+-      Utilizing SQL syntax for data manipulation tasks like ordering, limiting, and grouping.
+-      Overseeing database migration and understanding ETL processes.
+
+###  Data Filtering:
+-      Applying operators for data filtering tasks.
+-      Utilizing WHERE and HAVING clauses for specific data retrieval.
+-      Implementing CASE statements for conditional logic in SQL.
+
+###  Data Cleaning and Summarization:
+-      Identifying and rectifying "dirty data".
+-      Applying the DSP model and using the VIEW statement.
+-      Generating summary statistics and data profiles.
+
+###  Data Joining:
+-      Implementing various SQL join types.
+-      Combining data from multiple tables using SQL joins.
+
+###  Subquery Management:
+-      Structuring SQL queries with proper sequencing.
+-      Creating and applying subqueries within SELECT commands.
+
+###  Common Table Expressions (CTEs):
+-      Implementing CTEs for improved query structure.
+-      Converting complex subqueries into CTEs for clarity.
+
+###   Data Visualization and Presentation:
+
+-    Visualizing SQL results for better data representation.
+-    Designing comprehensive presentations to communicate data insights.
