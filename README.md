@@ -10,7 +10,7 @@ The main objective of this project is to assist Rockbuster Stealth LLC in formul
 ## Data:
 The project is built upon a rich dataset that spans across 15 tables. These tables include "Payment", which captures the payment details; "Rental", documenting the rental transactions; and "Films by Actors", listing the movies associated with each actor. The "Inventory" table tracks the available movies, while "Film Categories" classifies films into different genres. The database also houses details about "Customers", the "Staff" managing the operations, and the "Store" information. Additionally, there are tables dedicated to the "Actor" profiles, individual "Films", and their "Address" details. The dataset further categorizes movies by "Movie Languages". Geographic data is neatly organized into "Cities" and "Countries" tables, providing a holistic view of the movie rental landscape.
 
-![Screenshot of the ERD](C:\Users\facun\Desktop\Data Analysis\CF\Data Immersion\Achievement 3 - SQL\Exercise 3.2\Rockbuster Tables ERD)
+![Screenshot of the ERD]([C:\Users\facun\Desktop\Data Analysis\CF\Data Immersion\Achievement 3 - SQL\Exercise 3.2\Rockbuster Tables ERD](https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20Tables%20ERD.jpg?raw=true)https://github.com/Hakundo/Rockbuster-Stealth-Data-Analysis/blob/main/Rockbuster%20Tables%20ERD.jpg?raw=true)
 
 
 ## Tools:
